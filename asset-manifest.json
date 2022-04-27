@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Card-Match/static/css/main.3492b773.css",
+    "main.js": "/React-Card-Match/static/js/main.120356cb.js",
+    "index.html": "/React-Card-Match/index.html",
+    "main.3492b773.css.map": "/React-Card-Match/static/css/main.3492b773.css.map",
+    "main.120356cb.js.map": "/React-Card-Match/static/js/main.120356cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3492b773.css",
+    "static/js/main.120356cb.js"
+  ]
+}
