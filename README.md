@@ -1,4 +1,4 @@
-# Nuclear Throne Memory game
+# Nuclear Card Match
 
 This is a React application that allows a user to select cards, displaying matched cards and keep track of turns used. 
 
